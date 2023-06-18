@@ -1,4 +1,6 @@
 
+![Ali Banner](https://github.com/aliahmad5/aliahmad5/assets/63119870/20ba1165-f014-4066-a62a-098f6522e3b7)
+
 <div align="center">
   
   # Olá! Eu sou Ali Ahmad ✋
