@@ -40,6 +40,9 @@
 <br/>
 <div align="center">
 
+![Ali Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad5&layout=compact)
+
+
 ## Contato ✉️
 
 <div style="display: inline_block">
