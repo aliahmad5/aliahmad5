@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
 
-## Contato
+## Contato ✉️
 
 <div style="display: inline_block">
 
